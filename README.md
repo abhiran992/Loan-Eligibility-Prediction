@@ -1,7 +1,8 @@
-Loan-Eligibility-Prediction
+**Loan-Eligibility-Prediction:
+
 A Python Project for Data Science: Loan Eligibility Prediction. Through this project, I developed a Loan Eligibility Prediction model using Python, implemented popular Machine Learning algorithms, and explored various Python libraries.
 
-Libraries Used
+**Libraries Used
 Pandas: Powerful and fast, used for data analysis, manipulation, and filtering.
 NumPy: Used to perform mathematical and logical operations on arrays.
 Matplotlib: Used for static, interactive, and data visualization.
@@ -9,7 +10,7 @@ Scikit-learn: A comprehensive library with efficient tools for machine learning 
 Project Overview
 For this project, I utilized a supervised learning algorithm: Naive Bayes Classification.
 
-Steps to Approach the Dataset:
+**Steps to Approach the Dataset:
 Import Necessary Libraries: Load essential Python libraries.
 
 Import and Analyze Data: Load the dataset and analyze it for missing values and outliers using boxplots.
